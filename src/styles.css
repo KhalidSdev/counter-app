@@ -1,0 +1,66 @@
+    .header {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+    color: #003399;
+}
+    .MainPage {
+        margin: 20px auto;
+        width: 600px;
+    }
+    .MainWindow {
+        text-align: center;
+        margin-top: 50px;
+    }
+    .button_list {
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 100px;
+        font-family: 'Roboto', sans-serif;
+    }
+    .btn1 {
+        text-align: center;
+        font-size: 20px;
+        width: 150px;
+        height: 40px;
+        padding-top: 10px;
+        border-radius: 3px;
+        background-color:#003399;
+        color: white;
+    }
+    .btn2 {
+        text-align: center;
+        font-size: 20px;
+        width: 150px;
+        height: 40px;
+        padding-top: 10px;
+        border-radius: 3px;
+        background-color: #F27C0F;
+        color: white;
+    }
+    .btn3 {
+        text-align: center;
+        font-size: 20px;
+        width: 150px;
+        height: 40px;
+        padding-top: 10px;
+        border-radius: 3px;
+        background-color: #E5E5E5;
+        color: black;
+    }
+    .foot {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 200px;
+    }
+    .info_foot {
+        width: 300px;
+        margin-right: 20px;
+        display: flex;
+        justify-content: space-between;
+        color: gray;
+    }
+    .copyright {
+        color: gray;
+    }
